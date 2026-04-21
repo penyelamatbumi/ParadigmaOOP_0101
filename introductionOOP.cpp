@@ -14,6 +14,9 @@ class Mahasiswa{ //blue print atau cetakan
     }
 }; //batas class
 
+int main(){
+
+
 
 
     
